@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ajoud7101@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://github.com/joud-7101/joud-7101/blob/main/Copy%20of%20joud%20CV%20(1).pdf](https://github.com/joud-7101/joud-7101/blob/main/Copy%20of%20joud%20CV%20(2).pdf)" target="_blank">my CV</a>
+- 📄 Know about my experiences <a href="https://github.com/joud-7101/joud-7101/blob/main/Copy%20of%20joud%20CV%20(2).pdf" target="_blank">my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
